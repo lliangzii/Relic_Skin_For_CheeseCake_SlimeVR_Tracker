@@ -4,6 +4,8 @@ There are Skins for CheeseCake SlimeVR tracker's PCB, the original Repo did not 
 To have the colorful silkscreen, you should order PCB on JLCPCB:  
 https://prodocs.easyeda.com/en/pcb/other-draw-colorful-silkscreen/#order-colorful-silkscreen-pcb
 
+You can edit the .epro file in order to change silkscreen(with EasyEDA PRO Editor): https://easyeda.com/
+
 Original: https://github.com/Sorakage033/SlimeVR-CheeseCake
 ## IUM BNO_085
 <img width="250" height="400" alt="图片" src="https://github.com/user-attachments/assets/c6c52482-5198-483c-8557-608530588210" />
