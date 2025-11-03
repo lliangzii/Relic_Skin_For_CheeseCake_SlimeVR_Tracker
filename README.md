@@ -1,5 +1,8 @@
 # Relic_Skin_For_CheeseCake_SlimeVR_Tracker
-There are Skins for CheeseCake SlimeVR tracker's PCB, the original Repo did not including ICM45686, I add it.
+There are Skins for CheeseCake SlimeVR tracker's PCB, the original Repo did not including ICM45686, I add it. 
+
+To have the colorful silkscreen, you should order PCB on JLCPCB:  
+https://prodocs.easyeda.com/en/pcb/other-draw-colorful-silkscreen/#order-colorful-silkscreen-pcb
 
 Original: https://github.com/Sorakage033/SlimeVR-CheeseCake
 ## IUM BNO_085
@@ -10,3 +13,4 @@ Original: https://github.com/Sorakage033/SlimeVR-CheeseCake
 
 ## IUM ICM_45686 with QMC6309 
 <img width="250" height="400" alt="图片" src="https://github.com/user-attachments/assets/1572af5b-e946-4a88-8549-46bb851961c0" />
+<img width="350" height="450" alt="图片" src="https://github.com/user-attachments/assets/e1d274e4-c5f9-4e90-8529-1ded770eb703" />
