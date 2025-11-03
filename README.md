@@ -6,7 +6,10 @@ https://prodocs.easyeda.com/en/pcb/other-draw-colorful-silkscreen/#order-colorfu
 
 You can edit the .epro file in order to change silkscreen(with EasyEDA PRO Editor): https://easyeda.com/
 
-Original: https://github.com/Sorakage033/SlimeVR-CheeseCake
+Original Repo: https://github.com/Sorakage033/SlimeVR-CheeseCake
+
+Hope your soul can never fade away~~
+
 ## IUM BNO_085
 <img width="250" height="400" alt="图片" src="https://github.com/user-attachments/assets/c6c52482-5198-483c-8557-608530588210" />
 
@@ -15,4 +18,3 @@ Original: https://github.com/Sorakage033/SlimeVR-CheeseCake
 
 ## IUM ICM_45686 with QMC6309 
 <img width="250" height="400" alt="图片" src="https://github.com/user-attachments/assets/1572af5b-e946-4a88-8549-46bb851961c0" />
-<img width="350" height="450" alt="图片" src="https://github.com/user-attachments/assets/e1d274e4-c5f9-4e90-8529-1ded770eb703" />
