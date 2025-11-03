@@ -1,5 +1,6 @@
 # Relic_Skin_For_CheeseCake_SlimeVR_Tracker
-There are Skins for CheeseCake SlimeVR tracker's PCB, the original Repo did not including ICM45686, I add it
+There are Skins for CheeseCake SlimeVR tracker's PCB, the original Repo did not including ICM45686, I add it.
+
 Original: https://github.com/Sorakage033/SlimeVR-CheeseCake
 ## IUM BNO_085
 <img width="250" height="400" alt="图片" src="https://github.com/user-attachments/assets/c6c52482-5198-483c-8557-608530588210" />
