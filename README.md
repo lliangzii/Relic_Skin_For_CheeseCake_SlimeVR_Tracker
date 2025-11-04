@@ -16,10 +16,10 @@ Hope your soul never fade away~~
 ## Preview
 
 ### IUM BNO_085
-<img width="250" height="400" alt="图片" src="https://github.com/user-attachments/assets/c6c52482-5198-483c-8557-608530588210" />
+<img width="250" height="400" alt="img" src=pic/Bno_085.png />
 
 ### IUM ICM_45686
-<img width="250" height="400" alt="图片" src="https://github.com/user-attachments/assets/fad791e7-3548-493e-a803-e30904112f53" />
+<img width="250" height="400" alt="img" src=pic/Icm45686_6DOF.png />
 
 ### IUM ICM_45686 with QMC6309 
-<img width="250" height="400" alt="图片" src="https://github.com/user-attachments/assets/1572af5b-e946-4a88-8549-46bb851961c0" />
+<img width="250" height="400" alt="img" src=pic/Icm45686_9DOF.png />
