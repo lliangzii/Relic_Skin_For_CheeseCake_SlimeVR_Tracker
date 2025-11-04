@@ -1,17 +1,17 @@
 # Relic_Skin_For_CheeseCake_SlimeVR_Tracker
-There are Skins for CheeseCake SlimeVR tracker's PCB, the original Repo did not including ICM45686, I add it. 
+There are skins for CheeseCake SlimeVR tracker's PCB, the original Repo did not including ICM45686, I add it. 
 
 ## Usage
 To have the colorful silkscreen, you should order PCB on JLCPCB:  
 https://prodocs.easyeda.com/en/pcb/other-draw-colorful-silkscreen/#order-colorful-silkscreen-pcb
 
-Sometimes the colorful silkscreen for 1mm PCB thickness may too expensive, you can use Case_TypeC_1.6mm.stl for 1.6mm PCB thickness. If you use this Case,DO NOT use Li-po battery >8.4mm thickness!
+Sometimes the colorful silkscreen for 1mm PCB thickness may too expensive, you can use Case_TypeC_1.6mm.stl for 1.6mm PCB thickness. If you use this Case, DO NOT use Li-po battery >8.4mm thickness!
 
-You can edit the PCB with EasyEDA PRO Editor(import the .epro file): https://easyeda.com/
+You can edit the PCB with EasyEDA PRO Editor (import the .epro file) : https://easyeda.com/
 
 Original Repo: https://github.com/Sorakage033/SlimeVR-CheeseCake
 
-Hope your soul can never fade away~~
+Hope your soul never fade away~~
 
 ## Preview
 
