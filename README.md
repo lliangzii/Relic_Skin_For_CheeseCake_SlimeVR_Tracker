@@ -7,7 +7,7 @@ https://prodocs.easyeda.com/en/pcb/other-draw-colorful-silkscreen/#order-colorfu
 
 Sometimes the colorful silkscreen for 1mm PCB thickness may too expensive, you can use Case_TypeC_1.6mm.stl for 1.6mm PCB thickness. If you use this Case, DO NOT use Li-po battery >8.4mm thickness!
 
-You can edit the PCB with EasyEDA PRO Editor (import the .epro file): https://easyeda.com/
+You can edit the PCB with EasyEDA PRO Editor (import the .epro2 file): https://easyeda.com/
 
 Original repository: https://github.com/Sorakage033/SlimeVR-CheeseCake
 
