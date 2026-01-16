@@ -20,3 +20,6 @@ Hope your soul never fade away~~
 
 ### IUM ICM_45686_6DOF
 <img width="250" height="400" alt="img" src=pic/Icm-45686_6DOF.png />
+
+### IUM LSM6DSV
+<img width="250" height="400" alt="img" src=pic/LSM6DSV_6DOF.png />
